@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="dialog_title">Search for a city</string>
+    <string name="dialog_ok">Search</string>
+    <string name="searchEditTextText">City</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
